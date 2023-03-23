@@ -1,0 +1,54 @@
+.follower {
+    background-color: #e2e0e0;
+    width: calc(100% - 300px);
+    max-width: 500px;
+    border-radius: 10px;
+    padding: 0.75em 1em;
+    margin: 1em 0;
+    margin-right: 1em;
+
+    display:flex;
+    flex-direction: column;
+    gap: 1em;
+}
+
+.follower-header{
+    margin-left: 1.5em;
+}
+
+.follower-user-image {
+    margin-left: 0.5em;
+}
+
+.follower-text{
+    margin: none;
+}
+
+.follower-follow-button{
+    width:30%;
+    min-width: 90px;
+}
+
+.unfollow-button{
+    margin-top: 13px;
+    background-color: var(--color-primary);
+    width: 100%;
+} 
+
+.follow-button{
+    margin-top: 13px;
+    background-color: var(--color-secondary);
+    width: 100%;
+}
+
+@media screen and (min-width: 768px) {
+    .follower {
+        width: 90%;
+        flex-direction: row;
+        gap: 0;
+    }
+
+    .follower-text {
+        margin: auto;
+    }
+}

@@ -1,35 +1,20 @@
-# Module 1 Group Assignment
-
-CSCI 5117, Spring 2023, [assignment description](https://canvas.umn.edu/courses/355584/pages/project-1)
+# Quotagram
 
 ## App Info:
 
-* Team Name: Upper Five
-* App Name: Quotagram
 * App Link: https://quotagram.onrender.com/
 
-### Students
+### Contributors
 
-* Anwaar Hadi, hadi0013
-* Jason Woitalla, woita006
-* William Mleziva, mlezi006
-* Aditi Patil, patil112
-* Ash Kuroki, kurok011
-
+* Anwaar Hadi
+* Jason Woitalla
+* William Mleziva
+* Aditi Patil
+* Ash Kuroki
 
 ## Key Features
 
-**Describe the most challenging features you implemented
-(one sentence per bullet, maximum 4 bullets):**
-
 * One of the most challenging features that we implemented was the rendering of the quote board, which included positioning the quotes on the board as well as working with the visualization library for the quote board.
-
-## Testing Notes
-
-**Is there anything special we need to know in order to effectively test your app? (optional):**
-
-* There are no special notes needed to test the website.
-
 
 ## Screenshots of Site
 Desktop version homepage
